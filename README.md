@@ -10,12 +10,16 @@ Please cite this repository if you find it helpful.
 
 ### Examples of real mmWave SAR images captured with the experimental 77–81 GHz imaging system
 
-![Example real mmWave SAR image](https://github.com/ldorje1/millisarimagenet-dataset/blob/main/figures/experimental_images.png)
-
+<img src="https://raw.githubusercontent.com/ldorje1/millisarimagenet-dataset/main/figures/experimental_images.png"
+     width="600"
+     alt="Example real mmWave SAR image" />
 
 ### Examples of synthetic mmWave images (10 categories)
 
-![Example synthetic mmWave SAR image](https://github.com/ldorje1/millisarimagenet-dataset/blob/main/figures/synthetic_images.png)
+<img src="https://raw.githubusercontent.com/ldorje1/millisarimagenet-dataset/main/figures/synthetic_images.png"
+     width="600"
+     alt="Example synthetic mmWave SAR image" />
+
 
 
 ## Deep Learning Evaluation of MilliSARImageNet Dataset
