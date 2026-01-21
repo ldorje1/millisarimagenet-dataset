@@ -24,6 +24,8 @@ MilliSARImageNet is, to the best of our knowledge, the first 2D synthetic apertu
 ---
 
 ## Deep Learning Evaluation of MilliSARImageNet Dataset
+
+### Domain transfer analysis: Train on synthetic image --> test on real image
 <img src="https://github.com/ldorje1/millisarimagenet-dataset/blob/main/figures/dl_evaluation_dataset.png"
      width="600"
      alt="Example synthetic mmWave SAR image" />
