@@ -15,5 +15,7 @@ Please cite this repository if you find it helpful.
 
 ### Examples of synthetic mmWave images (10 categories)
 
+![Example synthetic mmWave SAR image](https://github.com/ldorje1/millisarimagenet-dataset/blob/main/figures/synthetic_images.png)
+
 
 ## Deep Learning Evaluation of MilliSARImageNet Dataset
