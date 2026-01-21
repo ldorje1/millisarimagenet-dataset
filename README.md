@@ -8,5 +8,9 @@ MilliSARImageNet is, to the best of our knowledge, the first 2D synthetic apertu
 
 Please cite this repository if you find it helpful.
 
+### Examples of real mmWave SAR images captured with the experimental 77–81 GHz imaging system
+
+### Examples of synthetic mmWave images (10 categories)
+
 
 ## Deep Learning Evaluation of MilliSARImageNet Dataset
